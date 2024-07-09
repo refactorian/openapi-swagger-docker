@@ -2,6 +2,8 @@ name: Deploy Swagger UI to GitHub Pages
 
 on:
   push:
+    paths-ignore:
+      - "README.md"
     branches: ["main"]
 
   workflow_dispatch:
