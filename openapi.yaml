@@ -3,10 +3,9 @@ info:
   title: Swagger Petstore - OpenAPI 3.0
   description: |-
     This is a sample Pet Store Server based on the OpenAPI 3.0 specification. 
-    
-    You can find out more about Swagger at [https://swagger.io](https://swagger.io). 
 
     Some useful links:
+    - [The GitHub repository](https://github.com/refactorian/openapi-swagger-docker)
     - [The Pet Store repository](https://github.com/swagger-api/swagger-petstore)
     - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)
   termsOfService: http://swagger.io/terms/
