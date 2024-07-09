@@ -1,8 +1,10 @@
 <p align="center"><img src="https://www.openapis.org/wp-content/uploads/sites/3/2016/10/OpenAPI_Pantone.png" width="500"></p>
 
-# OpenAPI, Swagger UI, Docker
+# OpenAPI, Swagger, Docker
 - OpenAPI v3.x
 - Swagger UI v5.x
+- Swagger Editor v4.x
+- Redoc v2.x
 
 # Requirements
 - Stable version of [Docker](https://docs.docker.com/engine/install/)
