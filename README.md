@@ -13,11 +13,12 @@
 
 # Notes
 
-### Swagger UI
+### Swagger UI (Docker)
 - URL: http://localhost:8080
 
 ### GitHub Pages
 - Swagger UI: https://refactorian.github.io/openapi-swagger-docker
+- Swagger Editor: https://refactorian.github.io/openapi-swagger-docker/editor
 - Redoc: https://refactorian.github.io/openapi-swagger-docker/redoc
 
 ### Docker compose commands
