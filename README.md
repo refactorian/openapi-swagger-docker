@@ -17,7 +17,8 @@
 - URL: http://localhost:8080
 
 ### GitHub Pages
-- URL: https://refactorian.github.io/openapi-swagger-docker
+- Swagger UI: https://refactorian.github.io/openapi-swagger-docker
+- Redoc: https://refactorian.github.io/openapi-swagger-docker/redoc
 
 ### Docker compose commands
 - Build or rebuild services
