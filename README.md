@@ -16,6 +16,9 @@
 ### Swagger UI
 - URL: http://localhost:8080
 
+### GitHub Pages
+- URL: https://refactorian.github.io/openapi-swagger-docker
+
 ### Docker compose commands
 - Build or rebuild services
     - `docker compose build`
